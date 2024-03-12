@@ -40,3 +40,4 @@ clean:
 	$(RM) kernel/*.o
 	$(RM) boot/*.o boot/*.bin
 	$(RM) drivers/*.o
+	$(RM) cpu/*.o
